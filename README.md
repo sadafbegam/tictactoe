@@ -1,4 +1,1 @@
 # Tic Tac Toe
-```
-ghjhgjhgjhgbjh
-```
