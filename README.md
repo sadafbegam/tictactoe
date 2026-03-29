@@ -33,3 +33,21 @@ This is a browser-based Tic Tac Toe game where two players can play against each
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 🧠 What I Learned
+
+- Implementing game logic using JavaScript  
+- Handling user interactions with event listeners  
+- Manipulating DOM elements dynamically  
+- Writing clean and modular frontend code  
+- Debugging and improving UI behavior  
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sadafbegam/tictactoe.git
