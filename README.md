@@ -51,3 +51,11 @@ This is a browser-based Tic Tac Toe game where two players can play against each
 1. Clone the repository:
    ```bash
    git clone https://github.com/sadafbegam/tictactoe.git
+
+---
+
+If you want, I can also:
+- add **screenshots section**
+- create a **more creative README (with badges & emojis)**
+- or make a **short resume description from this project** 👍
+::contentReference[oaicite:1]{index=1}
