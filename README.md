@@ -14,11 +14,6 @@ This is a browser-based Tic Tac Toe game where two players can play against each
 ---
 
 ## 🛠️ Technologies Used
-
-
-
-
-
 - **HTML5** – Structure of the game board  
 - **CSS3** – Styling, layout, and animations  
 - **JavaScript** – Game logic and interactivity  
